@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: backend-tests-go-srsbdpay-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/backend-tests-go-srsbdpay
